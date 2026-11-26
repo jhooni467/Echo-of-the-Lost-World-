@@ -1,11 +1,11 @@
 # Ecos del mundo perdido
 
-Videojuego de exploración y aventura de plataformas 2D lateral, pensado para navegador móvil y escritorio.
+Videojuego de exploración y aventura de plataformas 2D lateral, pensado para navegador móvil y escritorio. La experiencia en celular está diseñada para jugarse en **horizontal**.
 
 ## Cómo jugar
 Abre el sitio publicado con GitHub Pages o ejecuta `index.html` en un navegador con conexión a internet. Phaser 3 se carga desde jsDelivr.
 
-- **Móvil:** usa los botones en pantalla para moverte, saltar y atacar.
+- **Móvil:** gira el dispositivo a horizontal y usa los botones en pantalla para moverte, saltar y atacar.
 - **Teclado:** flechas o A/D para moverte; W, flecha arriba o espacio para saltar; J para atacar.
 - Elige el color de tu explorador en la pantalla inicial.
 - Derrota slimes y recoge fragmentos en el Bosque ancestral.
